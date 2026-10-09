@@ -9,5 +9,6 @@ namespace akıllırandevuvepolikilinikyönlendirmesistemi.Entities
         public int BolumId { get; set; }
         public string BolumAdi { get; set; }
         public string Aciklama { get; set; }
+        
     }
 }

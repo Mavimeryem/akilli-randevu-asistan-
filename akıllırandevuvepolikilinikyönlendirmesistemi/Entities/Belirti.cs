@@ -8,6 +8,7 @@ namespace akıllırandevuvepolikilinikyönlendirmesistemi.Entities
     {
         public int BelirtiId { get; set; }
         public int BolumId { get; set; }
-        public string BelirtiAdi { get; set; }
+        public string BelirtiAdi { get; set; } 
+        
     }
 }
