@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DataAccess\" />
+    <Folder Include="Business\" />
+    <Folder Include="UI\" />
+  </ItemGroup>
+
 </Project>
