@@ -13,3 +13,4 @@ namespace akıllırandevuvepolikilinikyönlendirmesistemi.Entities
         public string Durum { get; set; }
     }
 }
+ 
